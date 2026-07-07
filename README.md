@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Siddhi Sadanand Jadhav 👋
 
-<!--
-**SiddhiJadhav09/siddhijadhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Development
+* Software Development
+* UI/UX Design
+* Cloud Computing
+* Open Source
+* Digital Marketing
+* Data Analytics
+* Technology & Innovation
+
+🌱 Currently Learning:
+
+* Data Structures & Algorithms
+* Artificial Intelligence
+* Data Analytics
+* Firebase & Backend Development
+* Cloud Computing
+
+🚀 Projects:
+
+* DreamWay Travels
+* Portfolio Website
+* Startup Summit Expo Website
+
+📚 Passionate about building projects, exploring new technologies, and improving my development skills.
+
+🤝 Open to learning opportunities, internships, and collaborations.
+
